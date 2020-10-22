@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 生于平庸，但又不甘于平庸 👋
 
 <!--
 **Auraros/Auraros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
